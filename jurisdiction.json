@@ -1,0 +1,11 @@
+{
+  "path": "ru-niz",
+  "code": "RU-NIZ",
+  "name": "Nizhny Novgorod Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-nizhny-novgorod-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
