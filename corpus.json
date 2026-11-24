@@ -1,0 +1,17 @@
+{
+ "corpus": "ru/nizhny-novgorod/acts",
+ "path": "russia/nizhny-novgorod/acts",
+ "scope": "selected-acts",
+ "acts": 12,
+ "future_branch": "future",
+ "publisher": "Официальный интернет-портал правовой информации (publication.pravo.gov.ru)",
+ "name": "Nizhny Novgorod Oblast",
+ "language": "ru",
+ "coverage": "12 acts of Nizhny Novgorod Oblast with every dated version the source gives (341 versions), in force from 2015-04-02 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "2015-04-02",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-24",
+ "record_note": "Texts from Официальный интернет-портал правовой информации (publication.pravo.gov.ru).",
+ "in_force_trailer": "In-force"
+}
