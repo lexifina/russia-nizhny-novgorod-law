@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:20:18Z",
+ "generated": "2026-11-25T07:01:13Z",
  "latest": {
   "pravo-nizhny-novgorod|russia/nizhny-novgorod/acts": {
    "attempt": 1,
@@ -13,57 +13,25 @@
    },
    "census": {
     "checked": 2206,
-    "current": 2179,
+    "current": 2206,
     "gone": 0,
-    "held": 2179,
-    "newest_in_repo": "2026-10-30",
-    "pending": 27,
-    "repo": 2179,
+    "held": 2206,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 2206,
     "source_in_scope": 2206
    },
-   "check_id": "ru-pravo-nizhny-novgorod-20261124T141531Z",
-   "commits": {
-    "count": 2,
-    "from": "988b40948ef922d055716ca370d535a6159198e9",
-    "to": "11be21a91d023e679161c05a4457a1925ee97385"
-   },
+   "check_id": "ru-pravo-nizhny-novgorod-20261125T061816Z",
+   "commits": null,
    "corpus": "russia/nizhny-novgorod/acts",
    "error": null,
-   "finished": "2026-11-24T14:20:18Z",
+   "finished": "2026-11-25T06:19:23Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region52: 2206 law-type documents listed (every page read); 2179 held here; 27 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region52: 2206 law-type documents listed (every page read); 2206 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "5200202611060008",
-     "5200202611060009",
-     "5200202611060010",
-     "5200202611060012",
-     "5200202611060013",
-     "5200202611060014",
-     "5200202611060015",
-     "5200202611060016",
-     "5200202611060017",
-     "5200202611060018",
-     "5200202611060019",
-     "5200202611060020",
-     "5200202611060021",
-     "5200202611060022",
-     "5200202611060023",
-     "5200202611060024",
-     "5200202611060025",
-     "5200202611060026",
-     "5200202611060027",
-     "5200202611060028",
-     "5200202611060029",
-     "5200202611060030",
-     "5200202611060031",
-     "5200202611060032",
-     "5200202611060033",
-     "5200202611060034",
-     "5200202611060035"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -71,54 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "5200202611060008",
-     "5200202611060009",
-     "5200202611060010",
-     "5200202611060012",
-     "5200202611060013",
-     "5200202611060014",
-     "5200202611060015",
-     "5200202611060016",
-     "5200202611060017",
-     "5200202611060018",
-     "5200202611060019",
-     "5200202611060020",
-     "5200202611060021",
-     "5200202611060022",
-     "5200202611060023",
-     "5200202611060024",
-     "5200202611060025",
-     "5200202611060026",
-     "5200202611060027",
-     "5200202611060028",
-     "5200202611060029",
-     "5200202611060030",
-     "5200202611060031",
-     "5200202611060032",
-     "5200202611060033",
-     "5200202611060034",
-     "5200202611060035"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "2206 law-type documents in block region52; newest published 2026-11-06",
    "source": "pravo-nizhny-novgorod",
-   "started": "2026-11-24T14:15:31Z",
+   "started": "2026-11-25T06:18:16Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
